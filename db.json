@@ -1,0 +1,158 @@
+{
+  "users": [
+    {
+      "id": 225,
+      "username": "DKandray",
+      "email": "LLangfeldt@risus.org",
+      "password": "4LEGygut"
+    },
+    {
+      "id": 226,
+      "username": "MFaidley",
+      "email": "EPereyra@pulvinar.com",
+      "password": "ctlwHuMl"
+    },
+    {
+      "id": 227,
+      "username": "APeyton",
+      "email": "CLevickis@aenean.net",
+      "password": "kwQvJKsR"
+    },
+    {
+      "id": 228,
+      "username": "LRoos",
+      "email": "RFitzgerald@quis.ly",
+      "password": "anZulqKF"
+    },
+    {
+      "id": 229,
+      "username": "BKlepsteen",
+      "email": "KCamiling@sapien.org",
+      "password": "Sv6ITC3Z"
+    },
+    {
+      "id": 230,
+      "username": "AHancock",
+      "email": "VBradley@morbi.org",
+      "password": "9MRaFr3v"
+    },
+    {
+      "id": 231,
+      "username": "NGarner",
+      "email": "DRehnke@fringilla.gov",
+      "password": "wsqLDvEa"
+    },
+    {
+      "id": 232,
+      "username": "HDabbs",
+      "email": "CVan@consectetur.gov",
+      "password": "IpvKAXn6"
+    },
+    {
+      "id": 233,
+      "username": "CDemerath",
+      "email": "JPurdy@mi.io",
+      "password": "oQxZTnkR"
+    },
+    {
+      "id": 234,
+      "username": "QYach",
+      "email": "KKerkemeyer@ante.io",
+      "password": "7HsxyilM"
+    },
+    {
+      "username": "Nilesh Parker",
+      "email": "zzz@123",
+      "password": "1234",
+      "id": 236
+    },
+    {
+      "username": "Saloni G ",
+      "email": "salo11@g",
+      "password": "salo",
+      "id": 237
+    }
+  ],
+  "doctors": [
+    {
+      "id": 235,
+      "username": "ARenzi",
+      "email": "NDavis@lacus.com",
+      "password": "MjgWEMgS",
+      "role": "doctor"
+    },
+    {
+      "id": 236,
+      "username": "EDees",
+      "email": "SRios@dui.io",
+      "password": "oq7P4oau",
+      "role": "doctor"
+    },
+    {
+      "id": 237,
+      "username": "FStewart",
+      "email": "CDaly@lectus.org",
+      "password": "aI8INkh7",
+      "role": "doctor"
+    },
+    {
+      "id": 238,
+      "username": "NYarber",
+      "email": "MTrautman@lorem.ly",
+      "password": "E023QTb8",
+      "role": "doctor"
+    },
+    {
+      "id": 239,
+      "username": "AGrubbs",
+      "email": "TGrimes@egestas.gov",
+      "password": "vJjUJjT4",
+      "role": "doctor"
+    },
+    {
+      "username": "Aditya Kanade",
+      "email": "aditya119148@gmail.com",
+      "password": "adi123",
+      "role": "doctor",
+      "id": 240
+    },
+    {
+      "username": "Aditya Kanade",
+      "email": "Adi@123.com",
+      "password": "adi123",
+      "role": "doctor",
+      "id": 241
+    },
+    {
+      "username": "Nilesh Parker",
+      "email": "aditya119148@gmail.com",
+      "password": "khffy",
+      "role": "doctor",
+      "id": 242
+    }
+  ],
+  "appointments": [
+    {
+      "name": "Aditya Kanade",
+      "image": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=612x612&w=0&k=20&c=5FkfKdCYERkAg65cQtdqeO_D0JMv6vrEdPw3mX1Lkfg=",
+      "specialization": "Pediatrician",
+      "experience": "2",
+      "location": "banglore",
+      "date": "2023-05-26",
+      "slots": "2",
+      "fee": "5000",
+      "id": 3
+    },
+    {
+      "name": "Aditya Kanade",
+      "image": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=612x612&w=0&k=20&c=5FkfKdCYERkAg65cQtdqeO_D0JMv6vrEdPw3mX1Lkfg=",
+      "specialization": "Pediatrician",
+      "experience": "2",
+      "location": "banglore",
+      "date": "2023-05-26",
+      "slots": "2",
+      "fee": "5000",
+      "id": 4
+    }
+  ]
+}
